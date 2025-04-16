@@ -1,4 +1,3 @@
-```markdown
 # Traffic Monitoring System Documentation
 
 ## 시스템 구성
@@ -39,4 +38,3 @@
 
 ## 설정 파일
 - 서버 설정 및 관련 구성은 `mcp.json` 파일 내에서 관리됩니다.
-```
